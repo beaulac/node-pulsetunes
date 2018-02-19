@@ -1,0 +1,11 @@
+{
+  "name": "node-pulsetunes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antoine Beauvais-Lacasse <antoine.beaulac@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "airtunes": "marcokeur/node_airtunes#0168437",
+    "optimist": "^0.6.1"
+  }
+}
